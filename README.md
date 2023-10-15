@@ -64,3 +64,5 @@ El uso de try-with-resources es una práctica recomendada, ya que garantiza que 
 
 CONCLUSIONES (Martínez Arévalo Carlos Alberto)
 Es importante hacer un correcto manejo de errores a la hora de hacer uso de persistencia de objetos, algo que es necesario a la hora de realizar programas que no serán de un solo uso, y que necesitan almacenar información, para ejecuciones posteriores, lo cual facilita el uso del programa pues el usuario no debe realizar el proceso de inicio cada vez que use el programa.
+CONCLUSIONES (Alonso Lorenzana Rolando Yiyari)
+El manejo preciso de errores al aplicar la persistencia de objetos fue de gran importancia, especialmente cuando desarrollamos el anterior programa. La aplicacion necesitan la capacidad de preservar datos para su uso futuro, lo que conlleva la ventaja de simplificar el proceso de utilización. Esto se traduce en que los usuarios no deben repetir la fase inicial cada vez que deseen utilizar la aplicación y que esta sea mas intuitiva. 
